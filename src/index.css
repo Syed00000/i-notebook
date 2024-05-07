@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: rgb(0, 0, 0);
+  /* background-image: url(https://media.gq.com/photos/55a9253cae529ee176cccb5b/master/w_1600%2Cc_limit/evan-spiegel-snapchat-10e-14.jpg); */
+  background-image: url(https://wallpaperaccess.com/full/3847398.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  opacity: 0.8; /* Adjust the opacity value as needed */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+i {
+  cursor: pointer;
 }

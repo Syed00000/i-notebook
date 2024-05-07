@@ -12,7 +12,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.body{
+  background-color: black;
+  color: white;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+/* Add this CSS to your global CSS file or add inline styles to the container element */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
