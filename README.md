@@ -11,7 +11,5 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-it has some issues in in storing the auth token in local storage, so those developers who are interested to fix that issue can made a pull request. 
+it has some issues in storing the auth token in local storage, so those developers who are interested in fixing that issue can make a pull request. 
